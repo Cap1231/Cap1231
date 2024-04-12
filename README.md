@@ -1,8 +1,23 @@
-Hi, I’m Tsubasa, a full-stack developer based in Tokyo, Japan.<br/>
-I am engaged in developing the cloud-based platform that helps the capital markets community.
+## Hi, I’m Tsubasa 
 
-- 🛠 I’m currently using Ruby On Rails, Golang, React(Next) and TypeScript
-- 📫 How to reach me https://www.linkedin.com/in/tsubasa-yamaguchi/
+I am a full-stack web engineer based in Tokyo, Japan.<br/>
 
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Cap1231&theme=react&count_private=true&show_icons=true)
+## 🛠 Technical Skills
+### backend
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,python,go)](https://skillicons.dev)
+
+### frontend
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://skillicons.dev)
+
+### infra
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,mysql,redis,terraform)](https://skillicons.dev)
+
+
+## 📫 Contact
+<a href="https://www.linkedin.com/in/tsubasa-yamaguchi/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://twitter.com/tsuba_yamaguchi">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
